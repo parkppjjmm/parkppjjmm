@@ -1,4 +1,3 @@
-## jaemin park's git space
 
 <!--
 **parkppjjmm/parkppjjmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +18,16 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?height=400&text=GiiitttHub%20!!!!!&desc=Look%20around%20jaeems%20wolrd&animation=blinking)
 
+## jaeems git space
+
+- 🔭 I’m currently working on: Industrial/collaborative robot simulations, setting up Mapping (SLAM) environments, and utilizing Point Cloud (LiDAR, CAMERA) data.
+- 🌱 I’m currently learning the way of mapping tech.
+- 👯 I’m looking to collaborate on Process Intelligence Research Team
+- 💬 Ask me about: My work with industrial and collaborative robots, SLAM environments, and Point Cloud data.
+- 📫 How to reach me: You can find me on GitHub, Naver Blog, and X (formerly Twitter).
 
 <br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkppjjmm&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
-
+<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -76,5 +77,12 @@ Here are some ideas to get you started:
   <a href="mailto:parkppjjmm@naver.com">
     <img
       src="https://img.shields.io/badge/parkppjjmm@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkppjjmm&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
