@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can find me on GitHub, Naver Blog, and X (formerly Twitter).
 
 <br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkppjjmm&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
+<br>
 <br>
 
 <!--내용 부분-->
@@ -94,14 +101,11 @@ Here are some ideas to get you started:
 
 ## Paper space
 1) Park, J.; Jo, H.; Kim, I. “The Selection of the Most Cost-Efficient Distributed Generation Type for a Combined Cooling Heat and Power System Used for Metropolitan Residential Customers,” Energies 2021, 14 (18), 5606
-![image](https://github.com/parkppjjmm/parkppjjmm/assets/56201670/43dc03fa-3c8c-4c11-9723-bae7f0d72f04)
+<div align="center">
+      <img src="https://github.com/parkppjjmm/parkppjjmm/assets/56201670/43dc03fa-3c8c-4c11-9723-bae7f0d72f04" />&nbsp
+</div>
 
+<br>
 3) Jo, H.; Park, J.; Kim, I. ”Environmentally Constrained Optimal Dispatch Method for Combined Cooling, Heating, and Power Systems Using Two-Stage Optimization,” Energies 2021, 14 (14), 4135
 4) 박재민, 김인수, “A study on estimating the local capacity of photovoltaic generation according to the increase in the renewable energy penetration level”, KIEE, 2021.11 (Accept)
 
-<br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkppjjmm&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
