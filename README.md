@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
