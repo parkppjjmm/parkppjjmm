@@ -22,18 +22,13 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-From: 10 July 2020 - To: 06 August 2022
-
-Total Time: 1,464 hrs 54 mins
-
-Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
-Markdown           132 hrs 33 mins >>-----------------------   08.43 %
-TeX                103 hrs 52 mins >>-----------------------   06.61 %
-HTML               94 hrs 48 mins  >>-----------------------   06.03 %
-Nim                64 hrs 31 mins  >------------------------   04.11 %
-Other              47 hrs 58 mins  >------------------------   03.05 %
 
 
 <!--내용 부분-->
