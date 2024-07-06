@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 
 <!--타이틀 부분-->
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
+
+
+
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
