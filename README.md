@@ -18,28 +18,7 @@ Here are some ideas to get you started:
 
 
 <!--타이틀 부분-->
-name: GitHub-Profile-Summary-Cards
-
-on:
-  create:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
-  workflow_dispatch:
-
-jobs:
-build:
-  runs-on: ubuntu-latest
-  name: generate-github-cards
-  permissions:
-    contents: write
-
-  steps:
-    - uses: actions/checkout@v2
-    - uses: vn7n24fzkq/github-profile-summary-cards@release
-      env:
-        GITHUB_TOKEN: ${{ secrets.[YOUR_SECRET_TOKEN_NAME] }}
-      with:
-        USERNAME: ${{ github.repository_owner }}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
