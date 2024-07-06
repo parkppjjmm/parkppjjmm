@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 
-![header](https://capsule-render.vercel.app/api?height=400&text=GiiitttHub%20!&desc=Hello%20capsule%20render&animation=blinking)
+![header](https://capsule-render.vercel.app/api?height=400&text=GiiitttHub%20!&desc=I%20%am20jaeems&animation=blinking)
 
 
 <br>
