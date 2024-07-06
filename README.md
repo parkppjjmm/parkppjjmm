@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jaeminpark%20git&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jaeems%20git&fontSize=90" />
 </div>
 
 
