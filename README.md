@@ -104,7 +104,8 @@ Here are some ideas to get you started:
       <img src="https://github.com/parkppjjmm/parkppjjmm/assets/56201670/43dc03fa-3c8c-4c11-9723-bae7f0d72f04" />&nbsp
 </div>
 <br>
-3) 박재민, 김인수, “A study on estimating the local capacity of photovoltaic generation according to the increase in the renewable energy penetration level”, KIEE, 2021.11
 2) Jo, H.; Park, J.; Kim, I. ”Environmentally Constrained Optimal Dispatch Method for Combined Cooling, Heating, and Power Systems Using Two-Stage Optimization,” Energies 2021, 14 (14), 4135
+<br>
+3) 박재민, 김인수, “A study on estimating the local capacity of photovoltaic generation according to the increase in the renewable energy penetration level”, KIEE, 2021.11
 
 
