@@ -87,7 +87,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
 ## Conference space
 1) Jaemin Park, Dohun Kim, and Insu Kim, "A Study on the Development of Irregular Power Flow Analysis Program using Newton-Raphson Method and Verification of MATLAB Simulink," 51st 2020 KIEE Summer Conference, Bexco, Busan, South Korea, July 15-17, 2020, "Newton-Raphson 법을 이용한 불평형 조류해석 프로그램의 개발과 MATLAB Simulink의 검증에 관한 연구" in Korean.
 2) Jae-Min Park, Do-Hun Kim, Insu Kim, "A transients-state analysis study of the high-capacity PV system using DIgSILENT," 52nd KIEE Summer Conference 2021, Yongpyeong Resort, Pyeongchang-gun, Gangwon-do, South Korea, July 14-17, 2021, "DIgSILENT를 사용한 태양광 발전 시스템의 침투량 증가에 따른 과도 상태 분석" in Korean.
@@ -105,6 +104,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/parkppjjmm/parkppjjmm/assets/56201670/43dc03fa-3c8c-4c11-9723-bae7f0d72f04" />&nbsp
 </div>
 <br>
+3) 박재민, 김인수, “A study on estimating the local capacity of photovoltaic generation according to the increase in the renewable energy penetration level”, KIEE, 2021.11
 2) Jo, H.; Park, J.; Kim, I. ”Environmentally Constrained Optimal Dispatch Method for Combined Cooling, Heating, and Power Systems Using Two-Stage Optimization,” Energies 2021, 14 (14), 4135
-3) 박재민, 김인수, “A study on estimating the local capacity of photovoltaic generation according to the increase in the renewable energy penetration level”, KIEE, 2021.11 (Accept)
+
 
