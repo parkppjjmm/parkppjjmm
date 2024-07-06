@@ -16,20 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=slice)
 
-
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
-
-
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
-
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![header](https://capsule-render.vercel.app/api?height=400&text=GiiitttHub%20!&desc=Hello%20capsule%20render&animation=blinking)
 
 
 <br>
