@@ -19,6 +19,19 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 
+<div align="center">
+  
+  ## YeonHee's GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true" alt="YeonHee's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" alt="Most Used Languages" />
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=ffffff&color=000000&line=000000&point=000000" alt="YeonHee's Contribution Graph" />
+
+  ![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
+</div>
 
 
 
