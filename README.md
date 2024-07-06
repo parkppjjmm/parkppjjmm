@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?height=400&text=GiiitttHub%20!!!!!&desc=Look%20around%20jaeems%20wolrd&animation=blinking)
 
 ## jaeems git space
-
 - 🔭 I’m currently working on: Industrial/collaborative robot simulations, setting up Mapping (SLAM) environments, and utilizing Point Cloud (LiDAR, CAMERA) data.
 - 🌱 I’m currently learning the way of mapping tech.
 - 👯 I’m looking to collaborate on Process Intelligence Research Team
@@ -30,6 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--내용 부분-->
+## Profile space
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
      <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
