@@ -60,8 +60,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+
 </div>
 
 <br>
@@ -76,10 +75,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://blog.naver.com/parkppjjmm">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:parkppjjmm@naver.com">
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
