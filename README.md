@@ -15,18 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 <!--타이틀 부분-->
 
 <div align="center">
@@ -36,6 +24,18 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+From: 10 July 2020 - To: 06 August 2022
+
+Total Time: 1,464 hrs 54 mins
+
+Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
+Markdown           132 hrs 33 mins >>-----------------------   08.43 %
+TeX                103 hrs 52 mins >>-----------------------   06.61 %
+HTML               94 hrs 48 mins  >>-----------------------   06.03 %
+Nim                64 hrs 31 mins  >------------------------   04.11 %
+Other              47 hrs 58 mins  >------------------------   03.05 %
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -43,8 +43,6 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
 </div>
-
-![jaeems's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 <div align="center">
