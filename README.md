@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 
 
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
+
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
