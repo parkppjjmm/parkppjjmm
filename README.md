@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jaeems%20git&fontSize=90" />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
