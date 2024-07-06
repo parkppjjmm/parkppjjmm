@@ -33,6 +33,10 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jaeems%20git&fontSize=90" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/parkppjjmm/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--내용 부분-->
