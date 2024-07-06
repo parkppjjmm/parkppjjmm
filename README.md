@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Github%20Profile&fontSize=90" />
 </div>
 
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
+</div>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
