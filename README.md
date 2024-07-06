@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Github%20Profile&fontSize=90" />
+  
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
 
