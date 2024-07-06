@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?height=400&text=GiiitttHub%20!!!!!&desc=Look%20around%20jaeems%20wolrd&animation=blinking)
 
 ## jaeems git space
-- 🔭 I’m currently working on: Industrial/collaborative robot simulations, setting up Mapping (SLAM) environments, and utilizing Point Cloud (LiDAR, CAMERA) data.
+- 🔭 I’m currently working on: Industrial/collaborative robot design and simulations, setting up Mapping (SLAM) environments with LiDAR and Camera(Point Cloud data handling).
 - 🌱 I’m currently learning the way of mapping tech.
 - 👯 I’m looking to collaborate on Process Intelligence Research Team
 - 💬 Ask me about: My work with industrial and collaborative robots, SLAM environments, and Point Cloud data.
