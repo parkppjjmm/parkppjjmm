@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <div align="center">
