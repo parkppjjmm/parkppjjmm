@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can find me on GitHub, Naver Blog, and X (formerly Twitter).
 
 <br>
+<br>
+<br>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=parkppjjmm" />
@@ -35,6 +37,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+<br>
 <br>
 <br>
 
@@ -89,6 +92,10 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/parkppjjmm@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+<br>
+<br>
 
 ## Conference space
 1) Jaemin Park, Dohun Kim, and Insu Kim, "A Study on the Development of Irregular Power Flow Analysis Program using Newton-Raphson Method and Verification of MATLAB Simulink," 51st 2020 KIEE Summer Conference, Bexco, Busan, South Korea, July 15-17, 2020, "Newton-Raphson 법을 이용한 불평형 조류해석 프로그램의 개발과 MATLAB Simulink의 검증에 관한 연구" in Korean.
