@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jaeems%20git&fontSize=90" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeems&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeems&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![jaeems's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
