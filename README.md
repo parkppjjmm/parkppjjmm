@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?height=400&text=GiiitttHub%20!!!!!&desc=Look%20around%20jaeems%20wolrd&animation=blinking)
 
 ## jaeems git space
-- 🔭 I’m currently working on: Industrial/collaborative robot design and simulations, setting up Mapping (SLAM) environments with LiDAR and Camera(Point Cloud data handling).
+- 🔭 I’m currently working on: Industrial/collaborative robot design and simulations, setting up Mapping (SLAM) environments with LiDAR and Camera(Point Cloud data handling)
+- 🔭 I have experience in designing and managing databases, as well as developing software for video processing under real-time system conditions. Here is a brief overview of my skills and experience:
+- **Database Management**: Designing, implementing, and managing databases.
+- **Software Development**: Developing software for real-time video processing systems.
 - 🌱 I’m currently learning the way of mapping tech.
 - 👯 I’m looking to collaborate on Process Intelligence Research Team
 - 💬 Ask me about: My work with industrial and collaborative robots, SLAM environments, and Point Cloud data.
