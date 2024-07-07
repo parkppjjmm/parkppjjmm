@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ## jaeems git space
 - 🔭 I’m currently working on: Industrial/collaborative robot design and simulations, setting up Mapping (SLAM) environments with LiDAR and Camera(Point Cloud data handling)
 - 🔭 I have experience in designing and managing databases, as well as developing software for video processing under real-time system conditions. Here is a brief overview of my skills and experience:
+<br>
    **Database Management**: Designing, implementing, and managing databases.
+<br>
    **Software Development**: Developing software for real-time video processing systems.
 - 🌱 I’m currently learning the way of mapping tech.
 - 👯 I’m looking to collaborate on Process Intelligence Research Team
