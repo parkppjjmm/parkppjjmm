@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   - **FANUC Robot Training (2024):** Completed FANUC programming and simulation training.
 
 - 📫 **How to reach me:**
-  parkppjjmm@gmail.com or LinkedIn : https://www.linkedin.com/in/jaemin-park-a51939189/
+  parkppjjmm@gmail.com or LinkedIn Message : https://www.linkedin.com/in/jaemin-park-a51939189/
 
 
 <br>
@@ -57,6 +57,8 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/robotstudio-%230076D6.svg?style=for-the-badge&logo=abb&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/fanuc%20roboguide-%23FFCC00.svg?style=for-the-badge&logo=fanuc&logoColor=black" />&nbsp
 </div>
 
 
