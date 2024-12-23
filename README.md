@@ -19,19 +19,20 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?height=400&text=GiiitttHub%20!!!!!&desc=Look%20around%20jaeems%20wolrd&animation=blinking)
 
 ## jaeems git space
-- 🔭 I’m currently working on:
-  • Automation DB Development (2022): Built a database for galvanizing automation at Hyundai Steel.
-  • Flatness Measurement System (2023): Developed a real-time system using video processing.
-  • ABB Robot Training (2023): Trained in RobotStudio and RAPID programming.
-  • AI Dross Removal Robot (2023–2024): Designed and developed an AI-powered robot.
-  • Robot Path Optimization (2024–Present): Programmed and optimized robot paths with OLP tools.
-  • Simulation Studies (2024–Present): Conducted feasibility studies with RobotStudio and ROBOGUIDE.
-  • 3D Simulation Environments (2024–Present): Created 3D models using point cloud data.
-  • FANUC Robot Training (2024): Completed FANUC programming and simulation training.
-- 🌱 I’m currently learning the way of mapping tech.
-- 👯 I’m looking to collaborate on Process Intelligence Research Team
-- 💬 Ask me about: My work with industrial and collaborative robots, SLAM environments, and Point Cloud data.
-- 📫 How to reach me: You can find me on GitHub, Naver Blog, and X (formerly Twitter).
+- 🔭 **I’m currently working on:**
+
+  - **Automation DB Development (2022):** Built a database for galvanizing automation at Hyundai Steel.
+  - **Flatness Measurement System (2023):** Developed a real-time system using video processing.
+  - **ABB Robot Training (2023):** Trained in RobotStudio and RAPID programming.
+  - **AI Dross Removal Robot (2023–2024):** Designed and developed an AI-powered robot.
+  - **Robot Path Optimization (2024–Present):** Programmed and optimized robot paths with OLP tools.
+  - **Simulation Studies (2024–Present):** Conducted feasibility studies with RobotStudio and ROBOGUIDE.
+  - **3D Simulation Environments (2024–Present):** Created 3D models using point cloud data.
+  - **FANUC Robot Training (2024):** Completed FANUC programming and simulation training.
+
+- 💬 **Ask me about:**
+  My work with industrial and collaborative robots, SLAM environments, and Point Cloud data.
+
 
 <br>
 <br>
