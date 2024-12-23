@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   - **3D Simulation Environments (2024–Present):** Created 3D models using point cloud data.
   - **FANUC Robot Training (2024):** Completed FANUC programming and simulation training.
 
-- 💬 **Ask me about:**
-  My work with industrial and collaborative robots, SLAM environments, and Point Cloud data.
+- 📫 **How to reach me:**
+  parkppjjmm@gmail.com or LinkedIn : https://www.linkedin.com/in/jaemin-park-a51939189/
 
 
 <br>
