@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--타이틀 부분-->
-
-![header](https://capsule-render.vercel.app/api?height=400&text=Git%20&animation=blinking)
-
 ## jaeems git space
 - 🔭 **I’m currently working on:**
 
