@@ -30,21 +30,6 @@ Here are some ideas to get you started:
   parkppjjmm@gmail.com or LinkedIn Message : https://www.linkedin.com/in/jaemin-park-a51939189/
 
 
-<br>
-<br>
-<br>
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=parkppjjmm" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkppjjmm&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
-
-<br>
-<br>
-<br>
 
 <!--내용 부분-->
 ## Profile space
